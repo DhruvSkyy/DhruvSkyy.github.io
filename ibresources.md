@@ -32,15 +32,15 @@ This is the order of math I use
 [Some cool notes](https://ib-dead.weebly.com/ib-biology.html)\
 [More cool Notes](https://thesciencecodex.wordpress.com/ib-biology-notes/)
 
-**IB Econ HL**
+**IB Econ HL**\
 Cambridge Textbook
 
-**IB English Lang & Lit SL**
+**IB English Lang & Lit SL**\
 I don't have many resources for English.
 
-**IB Italian Ab Initio**
+**IB Italian Ab Initio**\
 [This site may help for Italian](https://ibitalianabinitio.wordpress.com/)
 
-**Philosophy**
+**Philosophy**\
 [Sisyphus 55](https://www.youtube.com/channel/UCDETFHKteb-C_EaXmRKvP4w)\
 [Stanford](https://plato.stanford.edu/index.html)

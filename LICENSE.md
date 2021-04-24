@@ -2,7 +2,9 @@ The content of the blog itself is under the [CC BY-ND 4.0](http://creativecommon
 
 For cases in which code is explicitly referenced to be linked to a GitHub repository, that code shall follow the same license as seen in the repository. Any other code is licensed under the MIT License.
 
-# Licensed Code
+# Licensed code used in this blog
+# The following is under the MIT License
+
 Hyde - Copyright (c) 2013 Mark Otto.
 
 Hydeout - Copyright (c) 2017 Andrew Fong.

@@ -36,7 +36,7 @@ This is the order of math I use
 Cambridge Textbook
 
 **IB English Lang & Lit SL**\
-I don't have many resources for English.
+Textual analysis for English Language and Literature for the IB Diploma 
 
 **IB Italian Ab Initio**\
 [This site may help for Italian](https://ibitalianabinitio.wordpress.com/)

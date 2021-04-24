@@ -41,10 +41,6 @@ I don't have many resources for English.
 **IB Italian Ab Initio**
 [This site may help for Italian](https://ibitalianabinitio.wordpress.com/)
 
-### Motivation
-I used to be really bad student for a while until I had kind of a realization and starting working better.
-I attribute this a lot to philosophy (mainly Camus).
-I strongly encourage you to question your existence for a while before you try and push yourself towards goals. The existential crisis is worth it. A lot of people typically say that motivation means nothing compared to discipline and I find that a really important part is missing. You need motivation to start building discipline. At least that's what worked for me.  
-I encourage you to find your own meaning but I built myself of Camus, Nietzsche and a little sprinkling of my own goals/ meaning to life. It took me about a month to kind of reawaken and rather periodically I reflect on my philosophy which I've written down and add amendments and such. This helps me continue to find meaning in what I've seen people give up/ breakdown over working. I also have a system of 'Principles' which I learnt from Ray Dalio which I found helped. 
-[This yt Channel is pretty good](https://www.youtube.com/channel/UCDETFHKteb-C_EaXmRKvP4w)\
-[This is a bit more in depth, good for the general philosophy of things](https://plato.stanford.edu/index.html)
+**Philosophy**
+[Sisyphus 55](https://www.youtube.com/channel/UCDETFHKteb-C_EaXmRKvP4w)\
+[Stanford](https://plato.stanford.edu/index.html)

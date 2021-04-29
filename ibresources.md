@@ -17,7 +17,8 @@ This is the order of math I use
 - [Christos Nikolaidis Tests](https://www.christosnikolaidis.com/en/maa-tests/)
 - [Revision Village Tests](https://www.revisionvillage.com/ib-math-analysis-and-approaches-hl/practice-exams/)
 - [IB Questionbank](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/questionbank.ibo.org/en/teachers/00000/questionbanks/7-dp-mathematics-hl/syllabus_sections.html)/ Revision Village Questionbank\
-Other resources which explain the math well\
+
+Other resources which explain the math well
 - [Exam Solutions](https://www.examsolutions.net/international-exams/international-baccalaureate/higher-level/), it also has really good videos which explain each topic.
 - [Harvard 1A](http://people.math.harvard.edu/~knill/teaching/math1a2020/), good for calculus
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), good for calculus
@@ -29,7 +30,8 @@ Other resources which explain the math well\
 **IB Chem HL**\
 [Some cool notes](https://ib-dead.weebly.com/ib-chemistry.html)\
 [More cool Notes](https://thesciencecodex.wordpress.com/ib-chemistry/)\
-Questions\
+
+Questions
 - [Mr. Massey's Chemistry Pages](https://masseychem.weebly.com/ib-review-answer-keys.html)
 - [IBDP SL & HL CHEMISTRY](https://sites.google.com/a/nisbah.com/chemistry/IBDP-Chemistry/dp-chemistry)
 - [IB Questionbank](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/questionbank.ibo.org/en/teachers/00000/questionbanks/45-dp-chemistry/syllabus_sections.html)

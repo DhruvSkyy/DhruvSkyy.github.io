@@ -16,7 +16,7 @@ This is the order of math I use
 - [Christos Nikolaidis Exercises](https://www.christosnikolaidis.com/en/maa-exercise/)
 - [Christos Nikolaidis Tests](https://www.christosnikolaidis.com/en/maa-tests/)
 - [Revision Village Tests](https://www.revisionvillage.com/ib-math-analysis-and-approaches-hl/practice-exams/)
-- [IB Questionbank](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/questionbank.ibo.org/en/teachers/00000/questionbanks/7-dp-mathematics-hl/syllabus_sections.html)/ Revision Village Questionbank\
+- [IB Questionbank](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/questionbank.ibo.org/en/teachers/00000/questionbanks/7-dp-mathematics-hl/syllabus_sections.html)/ Revision Village Questionbank
 
 Other resources which explain the math well
 - [Exam Solutions](https://www.examsolutions.net/international-exams/international-baccalaureate/higher-level/), it also has really good videos which explain each topic.
@@ -29,7 +29,7 @@ Other resources which explain the math well
 
 **IB Chem HL**\
 [Some cool notes](https://ib-dead.weebly.com/ib-chemistry.html)\
-[More cool Notes](https://thesciencecodex.wordpress.com/ib-chemistry/)\
+[More cool Notes](https://thesciencecodex.wordpress.com/ib-chemistry/)
 
 Questions
 - [Mr. Massey's Chemistry Pages](https://masseychem.weebly.com/ib-review-answer-keys.html)

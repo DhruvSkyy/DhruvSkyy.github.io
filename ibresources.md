@@ -25,7 +25,8 @@ Other resources which explain the math well
 - [cbhughes](https://sites.google.com/view/cbhughesmath/ib-aa-hl)
 - [Mr Mac Maths](https://www.mrmacmaths.com/calculus), notes for the entire syllabus.
 - [Another blog](https://ib-dead.weebly.com/ib-math.html), has nice links to resources.
-- [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a geenral guide to HL Math.
+- [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math.
+- The [Mathematics Stack Exchange](https://math.stackexchange.com/) is amazing
 
 **IB Chem HL**\
 [Some cool notes](https://ib-dead.weebly.com/ib-chemistry.html)\
@@ -41,7 +42,8 @@ Questions
 [Some cool notes](https://ib-dead.weebly.com/ib-biology.html)\
 [More cool Notes](https://thesciencecodex.wordpress.com/ib-biology-notes/)\
 [Bioninja](http://bioninja.com.au/)\
-[IB Questionbank](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/questionbank.ibo.org/en/teachers/00000/questionbanks/43-dp-biology/syllabus_sections.html)
+[IB Questionbank](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/questionbank.ibo.org/en/teachers/00000/questionbanks/43-dp-biology/syllabus_sections.html)\
+These [MIT Lectures](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/molecular-biology/dna-structure-classic-experiments/) are amazing, especially for molecular biology.  
 
 **IB Econ HL**\
 Cambridge Textbook

@@ -75,7 +75,7 @@ Textual analysis for English Language and Literature for the IB Diploma
 Three Paragraph Structure
 - Specific object - Real life situation, give context
 - Link to highlighted keywords in prompt
-- Explain why it provides an intersesting perspective to the prompt structure.
+- Explain why it provides an intersesting perspective to the prompt. 
 
 **Personal Statement UK**\
 [Examples, Scroll to the bottom](https://www.jesusoxfordjcr.com/useful-application-resources)\

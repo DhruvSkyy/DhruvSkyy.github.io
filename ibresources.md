@@ -59,8 +59,8 @@ Textual analysis for English Language and Literature for the IB Diploma
 [Stanford](https://plato.stanford.edu/index.html)
 
 **Useful Blogs IB**\
-[The Science Codex](https://thesciencecodex.wordpress.com/ib-biology-notes/)
-[IB Dead](https://ib-dead.weebly.com/ib-chemistry.html)
+[The Science Codex](https://thesciencecodex.wordpress.com/ib-biology-notes/)\
+[IB Dead](https://ib-dead.weebly.com/ib-chemistry.html)\
 [Chiron](https://yuvalamichay.wordpress.com/)
 
 **TOK Exhibition**\
@@ -71,6 +71,7 @@ Textual analysis for English Language and Literature for the IB Diploma
 - This only partially useful for TOK
 [General TOK type of thinking](https://web.archive.org/web/20201127044757/https://mytok.blog/2020/02/20/ct-the-exhibition-a-glossary-of-prompts/)
 - This is useful to get started.
+
 Three Paragraph Structure
 - Specific object - Real life situation, give context
 - Link to highlighted keywords in prompt

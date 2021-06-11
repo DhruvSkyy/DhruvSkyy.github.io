@@ -27,7 +27,7 @@ Other resources which explain the math well
 - [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math.
 - The [Mathematics Stack Exchange](https://math.stackexchange.com/) is helpful (look through similar questions first).
 - [Harvard Calc 1a](http://people.math.harvard.edu/~knill/teaching/math1a2020/), the notes are useful.
-- [Curve Sketching](http://pi.math.cornell.edu/~goldberg/Math1110/Curves.pdf)), good for calc. 
+- [Curve Sketching](http://pi.math.cornell.edu/~goldberg/Math1110/Curves.pdf), good for calc.
 
 **IB Chem HL**\
 [Some cool notes](https://ib-dead.weebly.com/ib-chemistry.html)\
@@ -62,7 +62,7 @@ Textual analysis for English Language and Literature for the IB Diploma
 **Useful Blogs IB**\
 [The Science Codex](https://thesciencecodex.wordpress.com/ib-biology-notes/)\
 [IB Dead](https://ib-dead.weebly.com/ib-chemistry.html)\
-[Chiron](https://yuvalamichay.wordpress.com/)
+[Chiron](https://yuvalamichay.wordpress.com/)\
 [Reasonable Deviations](https://reasonabledeviations.com/Notes/)
 
 **TOK Exhibition**\

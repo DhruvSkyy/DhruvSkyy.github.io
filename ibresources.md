@@ -27,6 +27,7 @@ Other resources which explain the math well
 - [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math.
 - The [Mathematics Stack Exchange](https://math.stackexchange.com/) is helpful (look through similar questions first).
 - [Harvard Calc 1a](http://people.math.harvard.edu/~knill/teaching/math1a2020/), the notes are useful.
+- [Curve Sketching](http://pi.math.cornell.edu/~goldberg/Math1110/Curves.pdf)), good for calc. 
 
 **IB Chem HL**\
 [Some cool notes](https://ib-dead.weebly.com/ib-chemistry.html)\

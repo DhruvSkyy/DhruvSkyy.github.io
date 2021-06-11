@@ -24,7 +24,7 @@ Other resources which explain the math well
 - [cbhughes](https://sites.google.com/view/cbhughesmath/ib-aa-hl)
 - [Mr Mac Maths](https://www.mrmacmaths.com/calculus), notes for the entire syllabus.
 - [Another blog](https://ib-dead.weebly.com/ib-math.html), has nice links to resources.
-- [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math.
+- [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math. Helpful Notes. Some of the more advanced notes could be helpful for Math IAs. 
 - The [Mathematics Stack Exchange](https://math.stackexchange.com/) is helpful (look through similar questions first).
 - [Harvard Calc 1a](http://people.math.harvard.edu/~knill/teaching/math1a2020/), the notes are useful.
 - [Curve Sketching](http://pi.math.cornell.edu/~goldberg/Math1110/Curves.pdf), good for calc.

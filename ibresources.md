@@ -62,6 +62,7 @@ Textual analysis for English Language and Literature for the IB Diploma
 [The Science Codex](https://thesciencecodex.wordpress.com/ib-biology-notes/)\
 [IB Dead](https://ib-dead.weebly.com/ib-chemistry.html)\
 [Chiron](https://yuvalamichay.wordpress.com/)
+[Reasonable Deviations](https://reasonabledeviations.com/Notes/)
 
 **TOK Exhibition**\
 [Examples](https://www.themantic-education.com/ibtok/2021/03/10/tok-exhibition-sample-3/)
@@ -75,7 +76,7 @@ Textual analysis for English Language and Literature for the IB Diploma
 Three Paragraph Structure
 - Specific object - Real life situation, give context
 - Link to highlighted keywords in prompt
-- Explain why it provides an intersesting perspective to the prompt. 
+- Explain why it provides an interesting perspective to the prompt.
 
 **Personal Statement UK**\
 [Examples, Scroll to the bottom](https://www.jesusoxfordjcr.com/useful-application-resources)\

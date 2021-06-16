@@ -24,7 +24,7 @@ Other resources which explain the math well
 - [cbhughes](https://sites.google.com/view/cbhughesmath/ib-aa-hl)
 - [Mr Mac Maths](https://www.mrmacmaths.com/calculus), notes for the entire syllabus.
 - [Another blog](https://ib-dead.weebly.com/ib-math.html), has nice links to resources.
-- [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math. Helpful Notes. Some of the more advanced notes could be helpful for Math IAs. 
+- [Math IAs](https://ibmathsresources.com/maths-ia-maths-exploration-topics/), also serves as a general guide to HL Math. Helpful Notes. Some of the more advanced notes could be helpful for Math IAs.
 - The [Mathematics Stack Exchange](https://math.stackexchange.com/) is helpful (look through similar questions first).
 - [Harvard Calc 1a](http://people.math.harvard.edu/~knill/teaching/math1a2020/), the notes are useful.
 - [Curve Sketching](http://pi.math.cornell.edu/~goldberg/Math1110/Curves.pdf), good for calc.
@@ -68,9 +68,9 @@ Textual analysis for English Language and Literature for the IB Diploma
 **TOK Exhibition**\
 [Examples](https://www.themantic-education.com/ibtok/2021/03/10/tok-exhibition-sample-3/)
 - This is very useful. Follow this three paragraph format.
-- You can also look through the other two examples they have linked on their website.
+- You can also look through the other two examples they have linked on their website.\
 [Stanford](https://plato.stanford.edu/entries/reliabilism/)
-- This only partially useful for TOK
+- This only partially useful for TOK\
 [General TOK type of thinking](https://web.archive.org/web/20201127044757/https://mytok.blog/2020/02/20/ct-the-exhibition-a-glossary-of-prompts/)
 - This is useful to get started.
 

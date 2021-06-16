@@ -68,9 +68,11 @@ Textual analysis for English Language and Literature for the IB Diploma
 **TOK Exhibition**\
 [Examples](https://www.themantic-education.com/ibtok/2021/03/10/tok-exhibition-sample-3/)
 - This is very useful. Follow this three paragraph format.
-- You can also look through the other two examples they have linked on their website.\
+- You can also look through the other two examples they have linked on their website.   
+
 [Stanford](https://plato.stanford.edu/entries/reliabilism/)
-- This only partially useful for TOK\
+- This only partially useful for TOK   
+
 [General TOK type of thinking](https://web.archive.org/web/20201127044757/https://mytok.blog/2020/02/20/ct-the-exhibition-a-glossary-of-prompts/)
 - This is useful to get started.
 

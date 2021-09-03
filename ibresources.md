@@ -69,7 +69,7 @@ Textual analysis for English Language and Literature for the IB Diploma
 [Examples](https://www.themantic-education.com/ibtok/2021/03/10/tok-exhibition-sample-3/)
 - You can also look through the other two examples they have linked on their website.   
 
-[General](https://web.archive.org/web/20201127044757/https://mytok.blog/2020/02/20/ct-the-exhibition-a-glossary-of-prompts/)\
+[General TOK](https://web.archive.org/web/20201127044757/https://mytok.blog/2020/02/20/ct-the-exhibition-a-glossary-of-prompts/)
 
 [Stanford](https://plato.stanford.edu/entries/reliabilism/)
 - This only partially useful for TOK   

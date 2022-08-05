@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I made this Site
+excerpt_separator:  <!--more-->
 ---
 
 ### How I made this Site

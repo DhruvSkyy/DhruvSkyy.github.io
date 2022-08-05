@@ -1,10 +1,8 @@
 ---
 layout: post
-title: How I made this Site
+title: How I made this site
 excerpt_separator:  <!--more-->
 ---
-
-### How I made this Site
 
 I used to use Wordpress but I found Jekyll a lot more practical/ useful as I progressed in Web Design.
 

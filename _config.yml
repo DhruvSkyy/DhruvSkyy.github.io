@@ -10,7 +10,7 @@ title:            Dhruv Sharma
 tagline:          'A website'
 description:      'A website for various IB Notes etc.'
 url:              https://www.dhruvs.com
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Dhruv Sharma'

@@ -4,14 +4,13 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Dhruv Sharma
 tagline:          'A website'
 description:      'A website for various IB Notes etc.'
 url:              https://www.dhruvs.com
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Dhruv Sharma'

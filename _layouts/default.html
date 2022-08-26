@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en-us'}}">
+<html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+<body class="theme-base-blue">
 
-    {% include sidebar.html %}
+  {% include sidebar.html %}
 
-    <main class="container">
-      {{ content }}
-    </main>
+  <div class="content container">
+    {{ content }}
+  </div>
 
-    {% include custom-foot.html %}
-  </body>
+</body>
+
+<script src="https://use.fontawesome.com/ba4ba69796.js"></script>
+
 </html>

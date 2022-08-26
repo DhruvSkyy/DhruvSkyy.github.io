@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IB Resources
-sidebar_link: true
+order: 3
 ---
 ### Resources
 

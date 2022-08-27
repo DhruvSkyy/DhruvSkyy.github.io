@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Dhruv Sharma
 tagline:          'A website'
-description:      'A website for various IB Notes etc.'
+description:      'A website'
 url:              https://www.dhruvs.com
 baseurl:          
 
@@ -36,3 +36,4 @@ social:
 
 # Features
 excerpt_separator: <!--more-->
+categories: "IB|Projects"

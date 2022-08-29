@@ -1,12 +1,8 @@
-\---
-
+---
 layout: page
-
 title: IB Resources
-
 order: 3
-
-\---
+---
 
 ### IB Resources 
 

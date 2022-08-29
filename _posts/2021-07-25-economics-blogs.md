@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Economics Blogs
+category: Projects
 ---
 
 I once decided to begin reading an economics blog. As such, I have compiled a list of economics blogs to pick one to read. <!--more-->

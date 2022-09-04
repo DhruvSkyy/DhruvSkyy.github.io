@@ -10,7 +10,7 @@ I ended up liking 'The Grumpy Economist' podcast.
 
 Economics Blogs: 
 
-[Articles | Institute for New Economic Thinking](https://www.ineteconomics.org/perspectives/blog/)
+[Articles \| Institute for New Economic Thinking](https://www.ineteconomics.org/perspectives/blog/)
 
 [Paul Krugman - The New York Times](https://www.nytimes.com/by/paul-krugman)
 
@@ -18,7 +18,7 @@ Economics Blogs:
 
 [Greg Mankiw's Blog](http://gregmankiw.blogspot.com/)
 
-[Econbrowser | Analysis of current economic conditions and policy](http://econbrowser.com/)
+[Econbrowser \| Analysis of current economic conditions and policy](http://econbrowser.com/)
 
 [Freakonomics - The hidden side of everything](https://freakonomics.com/)
 
@@ -40,17 +40,17 @@ Economics Blogs:
 
 [Hoover Institution](https://www.hoover.org/)
 
-[dlacalle.com | Daniel Lacalle Blog](https://www.dlacalle.com/en/)
+[dlacalle.com \| Daniel Lacalle Blog](https://www.dlacalle.com/en/)
 
 [The Grumpy Economist](https://johnhcochrane.blogspot.com/)
 
-[Undercover Economist | Tim Harford](https://timharford.com/articles/undercovereconomist/)
+[Undercover Economist \| Tim Harford](https://timharford.com/articles/undercovereconomist/)
 
 [Econlib - The Library of Economics and Liberty](https://www.econlib.org/)
 
 [The Upshot - The New York Times](https://www.nytimes.com/section/upshot)
 
-[Cheap Talk | A blog about economics, politics and the random interests of forty-something professors](https://cheaptalk.org/)
+[Cheap Talk \| A blog about economics, politics and the random interests of forty-something professors](https://cheaptalk.org/)
 
 [TheMoneyIllusion](https://www.themoneyillusion.com/)
 
@@ -66,23 +66,23 @@ Economics Blogs:
 
 [Ed Dolan's Econ Blog](https://dolanecon.blogspot.com/)
 
-[Economics One | A blog by John B. Taylor](https://economicsone.com/)
+[Economics One \| A blog by John B. Taylor](https://economicsone.com/)
 
 [Supply and Demand (in that order)](https://caseymulligan.blogspot.com/)
 
 [Calculated Risk](https://www.calculatedriskblog.com/)
 
-[Microeconomic Insights | Distilling research for public debate](https://microeconomicinsights.org/)
+[Microeconomic Insights \| Distilling research for public debate](https://microeconomicinsights.org/)
 
 [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
 
 [Blog - Cambridge Econometrics](https://www.camecon.com/blog/)
 
-[Simon Taylor's Blog | Simon Taylor's Blog](https://www.simontaylorsblog.com/)
+[Simon Taylor's Blog \| Simon Taylor's Blog](https://www.simontaylorsblog.com/)
 
 [Intelligent Economist - Economics Theory Explained Simply](https://www.intelligenteconomist.com/)
 
-[LSE Blogs | Expert analysis & debate from LSE](https://blogs.lse.ac.uk/)
+[LSE Blogs \| Expert analysis & debate from LSE](https://blogs.lse.ac.uk/)
 
 [Dash of Insight](https://www.dashofinsight.com/)
 

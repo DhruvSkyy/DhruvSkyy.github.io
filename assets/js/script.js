@@ -1,4 +1,13 @@
 if (window.matchMedia('(max-width: 600px)').matches) {
+  var canvas = document.getElementById("canvas"),
+    ctx = canvas.getContext('2d');
+
+  function convertRemToPixels(rem) {
+    return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
+  }
+  canvas.width = 0;
+  canvas.height = 0;
+
   function nameFunction() {
     return false;
   }

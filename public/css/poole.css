@@ -474,3 +474,9 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.figcap {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
+}

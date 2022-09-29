@@ -10,7 +10,8 @@ title:            Dhruv Sharma
 tagline:          'A website'
 description:      'A website'
 url:              https://www.dhruvs.com
-baseurl:          
+baseurl:      
+imageurl:       '/assets/images/'    
 
 author:
   name:           'Dhruv Sharma'

@@ -15,9 +15,14 @@ if (window.matchMedia('(max-width: 600px)').matches) {
   canvas.width = Math.max(convertRemToPixels(18), (window.innerWidth * 0.15));
   canvas.height = window.innerHeight;
 
+  width = Math.max(convertRemToPixels(18), (window.innerWidth * 0.15));
+  height = window.innerHeight;
+
+  area = width * height;
+
   var stars = [], // Array that contains the stars
     FPS = 60, // Frames per second
-    x = 100, // Number of stars
+    x = area / 5000, // Number of stars
     mouse = {
       x: 0,
       y: 0

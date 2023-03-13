@@ -1,50 +1,67 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-    <!-- Metadata -->
-    <div>
-      <span style="display: inline" class="post-date" title="Estimated read time">
-        {{ post.date | date_to_string }} &middot;
-        {% assign words = post.content | strip_html | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min
-        read
-      </span>
-      &emsp;
-      <span style="display:inline">[
-        {% capture category_name %}{{ post.category }}{% endcapture %}
-        <a href="/category/{{ category_name }}">{{ category_name}}</a>
-        ]</span>
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+        <script src="https://unpkg.com/boxicons@2.0.9/dist/boxicons.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/style.css" type="text/css"/>
+    <link rel="icon" href="./img/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="./img/favicon.ico" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="./img/icon.jpg" />
+    <meta name="msapplication-TileImage" content="./img/icon.jpg" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
+    <title>Portfolio | Kyxzy </title>
+</head>
+<body>
+    <div class="hero_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-ms-12 col-xs-12">
+                    <h3>Hello!, I'm</h3>
+                    <h1>Dhruv Sharma</h1>
+                    <h2>UCL BSc Chemistry with Mathematics Student</h2>
+                    <p>Click the buttons below for my CV and socials!</p>
+                    <div class="btn_container">
+                        <a href="./portfolio/index.html"><button class="btn btn-light animate__animated">CV</button></a>
+                        <a href="https://github.com/DhruvSkyy"><button class="btn btn-light animate__animated">Github</button></a>
+                        <a href="https://www.linkedin.com/in/DhruvSharma-UCL"><button class="btn btn-light animate__animated">Linkedin</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <br>
-    {{ post.excerpt | newline_to_br | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip |
-    append: " <a href='" | append: post.url | append: "'>Read more...</a>"| append: "<br /> <br />" }}
-
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-  <a class="pagination-item older" href="{{ site.url }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-  <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-  {% if paginator.page == 2 %}
-  <a class="pagination-item newer" href="{{ site.url }}">Newer</a>
-  {% else %}
-  <a class="pagination-item newer" href="{{ site.url }}/page{{paginator.previous_page}}">Newer</a>
-  {% endif %}
-  {% else %}
-  <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+    <div id="particles-js"></div>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script>
+        particlesJS.load('particles-js', 'particles.json',
+        function(){
+            console.log('particles.json loaded...')
+        })
+    </script>   
+    <script type="text/javascript" src="./js/app.js"></script>
+    <script type="text/javascript" src="./js/particles.js"></script>
+</body>
+</html>
+                                                          
